@@ -4,4 +4,4 @@ Maximiliano assel
 Hugo Avallay
 Matias Martinez
 Francisco Toledo
-Omar Zerpa
+Omar Zerpa edad : 31. Ciudad : Capital.
