@@ -1,6 +1,6 @@
 # MOVIES
 ## INTEGRANTES
-Maximiliano assel
+Maximiliano assel . 38, San Miguel //
 Hugo Avallay
 Matias Martinez
 Francisco Toledo
