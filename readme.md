@@ -1,6 +1,6 @@
 # MOVIES
 ### INTEGRANTES
-- Maximiliano assel, edad: 38, ciudad: San Miguel. 
+- Maximiliano assel, Edad: 38, ciudad: San Miguel. 
 - Hugo Avallay, edad: 37, Ciudad:La Rioja/Capital.
 - Matias Martinez, edad: 36, Ciudad: Lugano
 - Francisco Toledo
